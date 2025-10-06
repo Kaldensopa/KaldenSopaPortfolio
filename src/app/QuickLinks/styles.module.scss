@@ -1,8 +1,15 @@
 .linkheader{
     display: flex;
-    justify-content: space-evenly;
-    color: blue;
-    size: 50px;
+    text-align: left;
+    justify-content: space-between;
+    color: #0000ff;
+    size: 50px;    
+}
+.container{
     cursor: pointer;
-    
+
+}
+
+.left{
+    text-align: left;
 }
